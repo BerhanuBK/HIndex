@@ -1,7 +1,7 @@
-# PYTHON SOLUTION FOR LEETCODE H-INDEX PROBLEM
-# This code finds the maximum citations of among an author articles
+### PYTHON SOLUTION FOR LEETCODE H-INDEX PROBLEM
+#### This code finds the maximum citations among an author's articles
 
-This problem provided by Leetcode and stated briefly as follows. 
+This problem is provided by Leetcode and stated briefly as follows. 
 
     Given an array of integers citations where citations[i] is the number of citations a researcher received for their ith paper, return the researcher's h-index.
 
